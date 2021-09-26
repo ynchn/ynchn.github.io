@@ -1,13 +1,13 @@
 body {
     background-color: #41b7db;
     font-family: "Helvetica";
-  }
-  h1 {
+}
+h1 {
     text-align: center;
-  }
-  h3 {
+}
+h3 {
     text-align: center;
-  }
-  .image {
-    width: 20%;
-  }
+}
+img {
+    width: 500px
+}
