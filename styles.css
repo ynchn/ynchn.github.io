@@ -1,14 +1,14 @@
 body {
-    background-color: #8ec4f0;
-    font-family: "Garamond", serif
+    background-color: #41b7db;
+    font-family: "Helvetica";
   }
   h1 {
-    text-align: center
+    text-align: center;
   }
   h3 {
-    text-align: center
+    text-align: center;
   }
-  img {
+  div#image {
     width: 500px;
     height: 600px;
   }
