@@ -8,7 +8,7 @@ body {
   h3 {
     text-align: center;
   }
-  #image {
+  .image {
     width: 500px;
     height: 600px;
   }
