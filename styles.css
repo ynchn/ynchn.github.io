@@ -9,5 +9,13 @@ h3 {
     text-align: center;
 }
 img {
-    width: 500px
+    display: block;
+    width: 50%;
+}
+ul {
+    text-align: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
 }
